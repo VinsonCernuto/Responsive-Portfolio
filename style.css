@@ -5,6 +5,7 @@
     padding: 0;
     margin: 0;
     color: white;
+    font-family: 'Playfair Display', serif;
 }
 
 /* CSS for body elements */
@@ -14,6 +15,13 @@ body {
     
 }
 
+/* setting margins for about me on main Page*/
+
+.about_me_card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
 
 
 
