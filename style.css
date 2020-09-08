@@ -1,1 +1,26 @@
-/*Style css for my responsive portfolio
+/* css style sheet for responsive-portfolio*/
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+/* CSS for body elements */
+
+body {
+    background-image: url(https://wallpapercave.com/wp/wp3264044.jpg);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
