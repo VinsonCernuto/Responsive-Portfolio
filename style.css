@@ -6,6 +6,7 @@
     margin: 0;
     color: white;
     font-family: 'Playfair Display', serif;
+    font-size: large;
 }
 
 /* CSS for body elements */
@@ -21,6 +22,12 @@ body {
     margin: 0 auto;
     float: none;
     margin-bottom: 10px;
+}
+
+.card {
+    margin: 10;
+    padding-right: 10;
+    padding-left: 10;
 }
 
 
