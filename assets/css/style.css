@@ -4,7 +4,6 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    color: white;
     font-family: 'Playfair Display', serif;
     font-size: large;
 }
@@ -19,16 +18,27 @@ body {
 /* setting margins for about me on main Page*/
 
 .about_me_card {
+    color: white;
     margin: 0 auto;
     float: none;
     margin-bottom: 10px;
 }
 
 .card {
-    margin: 10;
-    padding-right: 10;
-    padding-left: 10;
+    color: black;
+    margin: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
 }
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+
+
 
 
 
