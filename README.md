@@ -10,9 +10,9 @@ This is a responsive portfolio site built utilizing bootstrap
 -------------------------------------------------------------------------------
 ScreenShots
 -------------------------------------------------------------------------------
-<img src="Responsive-Portfolio\assets\images\myPortfolioHome.PNG">
+<img src="assets\images\myPortfolioHome.PNG">
 
 
-<img src="Responsive-Portfolio\assets\images\myPortfolioProjects.PNG">
+<img src="assets\images\myPortfolioProjects.PNG">
 
 
