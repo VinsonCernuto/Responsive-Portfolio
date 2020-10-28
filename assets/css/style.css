@@ -7,11 +7,31 @@
     font-family: 'Playfair Display', serif;
     font-size: large;
 }
+carouselExampleSlidesOnly {
+    position: relative;
+    background:none;
+  }
+
+carouselExampleSlidesOnly:after {
+    content : "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url(https://placebear.com/g/900/300);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    opacity : 0.2;
+    z-index: -1;
+}
 
 /* CSS for body elements */
 
 body {
-    background-image: url(https://wallpapercave.com/wp/wp3264044.jpg);
+    background-image: url(https://media.gettyimages.com/videos/rain-animation-on-black-background-overlay-alpha-channel-video-id1076492536?s=640x640);
     
 }
 
@@ -25,16 +45,22 @@ body {
 }
 
 .card {
-    color: black;
-    margin: 10px;
-    padding-right: 10px;
-    padding-left: 10px;
-    padding-bottom: 10px;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
 }
 
 h1 {
     text-align: center;
     color: white;
+}
+
+.mb-4 {
+    background-color: white;
+    margin-top: 0;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom:100px;
 }
 
 
